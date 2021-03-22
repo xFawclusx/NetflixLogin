@@ -1,0 +1,144 @@
+body {
+    background-image: url(Img/NetflixBg.jpg);
+}
+
+.NFlogo{
+    width: 140px;
+    height: 70px;
+}
+
+form{
+    width: 25%;
+    background-color: rgba(0, 0, 0, .8);
+    opacity: ;
+    padding: 30px;
+    margin: auto;
+    margin-top: 25px;
+    border-radius: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 500px;
+}
+
+h4 {
+    color: white;
+    font-size: 30px;
+    height: 5px;
+    margin-top: 5px;
+    margin-left: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.controles {
+    width: 80%;
+    height: 25px;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #252121;
+    margin-top: 15px;
+    background-color: #252121;
+    margin-left: 25px;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.boton{
+    width: 80%;
+    height: 40px;
+    padding: 10px;
+    border-radius: 4px;
+    margin-top: 20px;
+    border: 1px solid red;
+    background-color: red;
+    margin-left: 35px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.NA{
+    text-decoration: none;
+    color: darkgray;
+    margin-left: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.REC {
+    color: darkgrey;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 25px;
+    font-size: 14px;
+}
+
+
+
+.SCF{
+    color: darkgrey;
+    text-decoration: none;  
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.FB{
+    width: 20px;
+    height: 20px;
+}
+
+.PV{
+    color: darkgrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.SY{
+    color: white;
+    font-size:18px;
+    text-decoration: none;
+    margin-left: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pp{
+    color: darkgrey;
+    text-decoration: none; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.MI{
+    text-decoration: none;
+    color: #1944F2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+
+
+
+
+.footer {
+    background-color: rgba(0, 0, 0, .8);
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 75px;
+}
+
+.Preg{
+    color: grey;
+    margin-left: 400px;
+}
+
+ul {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.linkinf{
+    text-decoration: none;
+    color: darkgrey;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 28px;
+    margin-left: 36px;
+    font-size: 13px;
+    text-align: center;
+}
